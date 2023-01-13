@@ -3,4 +3,7 @@ A Fortune Teller website based on Magic 8 Ball. Tpe your question and ask the Ma
 Check the website - 
 Created using HTML, CSS and Javascript.
 
-<img src="https://user-images.githubusercontent.com/102166679/212330087-396c6f29-0cf2-4658-9557-7cd196eca4f7.png" width=200px>
+<center>
+
+<img src="https://user-images.githubusercontent.com/102166679/212330087-396c6f29-0cf2-4658-9557-7cd196eca4f7.png" width=800px>
+</center>
